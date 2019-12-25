@@ -151,7 +151,7 @@ In the last column we take the pixel with min/max probability in this case we ta
 
 Output:
 
-![alt text](https://github.com/Vij18/Artificial-Intelligence---Adversarial-Games-and-Viterbi/blob/master/output.png)
+![alt text](https://github.com/Vij18/Artificial-Intelligence---Adversarial-Games-and-Viterbi/blob/master/op.png)
 
 **References** - </br>
 
