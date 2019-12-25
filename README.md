@@ -149,6 +149,10 @@ Approaches for part 2 and part 3:
 
 In the last column we take the pixel with min/max probability in this case we take min probability and corresponding path.
 
+Output:
+
+![alt text](https://github.com/Vij18/Artificial-Intelligence---Adversarial-Games-and-Viterbi/blob/master/output.png)
+
 **References** - </br>
 
 [1] - https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20160011500.pdf  (Idea for Viterbi implementation) </br>
